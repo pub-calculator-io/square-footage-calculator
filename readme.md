@@ -13,7 +13,7 @@ Square footage calculator finds the surface area (square footage) of various sha
 
 ## Usage
 * Add the shortcode `[ci_square_footage_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_square_footage_calculator(); ?>` to your template where you would like the Square Footage Calculator to appear.
+* Or add the following code: `<?php display_ci_square_footage_calculator(); ?>` to your template where you would like the Square Footage Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
