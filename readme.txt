@@ -13,6 +13,8 @@ Square footage calculator finds the surface area (square footage) of various sha
 
 Square footage calculator finds the surface area (square footage) of various shapes and calculates associated construction costs. It can be used as a room area calculator.
 
+[Square Footage Calculator Homepage](https://www.calculator.io/square-footage-calculator/ "Square Footage Calculator Homepage")
+
 __Shortcode__
 
 Use the Square Footage Calculator shortcode:
