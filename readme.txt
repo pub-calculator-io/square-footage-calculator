@@ -13,34 +13,35 @@ Square footage calculator finds the surface area (square footage) of various sha
 
 Square footage calculator finds the surface area (square footage) of various shapes and calculates associated construction costs. It can be used as a room area calculator.
 
-[Square Footage Calculator Homepage](https://www.calculator.io/square-footage-calculator/ "Square Footage Calculator Homepage")
+[https://www.calculator.io/square-footage-calculator/](https://www.calculator.io/square-footage-calculator/)
 
-__Shortcode__
-
-Use the Square Footage Calculator shortcode:
+__Square Footage Calculator Shortcode__
 
 `[ci_square_footage_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_square_footage_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Square Footage Calculator](https://www.calculator.io/square-footage-calculator/ "Square Footage Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Square Footage Calculator Usage ==
+
 * Add the shortcode `[ci_square_footage_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_square_footage_calculator(); ?>` to your template where you would like the Square Footage Calculator to appear.
 
 == Screenshots ==
+
 1. The Square Footage Calculator Input Form.
 2. The Square Footage Calculator Calculation Results.
+
+== Libraries used in Square Footage Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
