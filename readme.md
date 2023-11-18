@@ -1,4 +1,4 @@
-# Square Footage Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Square Footage Calculator Widget for WordPress
 
 Square footage calculator finds the surface area (square footage) of various shapes and calculates associated construction costs. It can be used as a room area calculator.
 
