@@ -1,4 +1,4 @@
-=== Square Footage Calculator ===
+=== Square Footage Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: square footage calculator, surface area calculation, construction cost estimation, geometrical shape area measurement, room area calculation, garden space assessment, material requirement calculation, multi-shape square footage
 Requires at least: 5.0
