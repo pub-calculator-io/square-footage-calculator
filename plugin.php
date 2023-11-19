@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Square Footage Calculator by www.calculator.io
+Plugin Name: CI Square footage calculator
 Plugin URI: https://www.calculator.io/square-footage-calculator/
 Description: Square footage calculator finds the surface area (square footage) of various shapes and calculates associated construction costs. It can be used as a room area calculator.
 Version: 1.0.0
