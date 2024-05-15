@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Square Footage 
 == Screenshots ==
 
 1. The Square Footage Calculator Input Form.
-2. The Square Footage Calculator Calculation Results.
 
 == Installation ==
 
